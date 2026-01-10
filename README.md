@@ -365,10 +365,25 @@ Jika belum login → CatalogView
 Staff klik tombol Petugas → LoginView
 Login sukses → session ada → ContentView otomatis pindah ke StaffHomeView
 
+
 Staff bisa:
 lihat loans & create loan
 lihat books + trash buku
 logout → balik ke catalog
+
+
+
+App Testing : 
+![WhatsApp Image 2026-01-11 at 05 21 42 (1)](https://github.com/user-attachments/assets/502a463e-5e88-478e-b63f-13e4725ac2f8)
+Menampilkan katalog buku dan search bar 
+
+
+![WhatsApp Image 2026-01-11 at 05 21 42](https://github.com/user-attachments/assets/7b0387e8-c5e5-4e0c-b349-c79f76b3b621)
+Menampilkan status peminjaman para pengguna dan detail peminjaman
+
+![WhatsApp Image 2026-01-11 at 05 24 29](https://github.com/user-attachments/assets/de47ff0b-4241-402a-99fc-703cf458fc6e)
+Menampilkan form peminjaman yang diisi oleh petugas perpustakaan dan dapat melihat ketersediaan buku yang ingin dipinjam
+
 
 
 THANK YOU 
