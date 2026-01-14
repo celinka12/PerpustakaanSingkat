@@ -408,49 +408,76 @@ Hasil Dokumentasi:
 <img width="365" height="792" alt="image" src="https://github.com/user-attachments/assets/59d29b99-93f5-44ae-a517-42b2b187ae52" />
 
 T04 : Login gagal (password salah)
+
 <img width="203" height="560" alt="Screenshot 2026-01-14 at 17 31 01" src="https://github.com/user-attachments/assets/ea07cf53-b404-424f-a0ed-fa440c0671cc" />
+
 Hasil Dokumentasi:
+
 <img width="365" height="792" alt="image" src="https://github.com/user-attachments/assets/e4766e93-8bda-45c0-8ad0-921e3a210595" />
 
 T05: Login berhasil (password benar)
+
 <img width="248" height="560" alt="Screenshot 2026-01-14 at 17 33 33" src="https://github.com/user-attachments/assets/6ec839d7-6f5e-42d7-9153-0f13b1721965" />
+
 Hasil Dokumentasi :
+
 <img width="365" height="792" alt="image" src="https://github.com/user-attachments/assets/98d94b27-168c-46e2-a26d-d411f00a03bc" />
 
 T06: Load daftar Member loan
+
 <img width="197" height="560" alt="Screenshot 2026-01-14 at 17 34 46" src="https://github.com/user-attachments/assets/8b2a32c0-56f5-4453-886b-eea2490a69aa" />
+
 Hasil Dokumentasi :
+
 <img width="365" height="792" alt="image" src="https://github.com/user-attachments/assets/98d94b27-168c-46e2-a26d-d411f00a03bc" />
 
 T07: Membuka form create loan
+
 <img width="211" height="560" alt="Screenshot 2026-01-14 at 17 35 49" src="https://github.com/user-attachments/assets/e65337cd-0103-4789-abed-b6dc0e90cf98" />
+
 Hasil Dokumentasi :
+
 <img width="365" height="792" alt="image" src="https://github.com/user-attachments/assets/77c2d0df-7317-4890-96a4-936bc3aa432b" />
 
 T08: Validasi Create Loan (tidak bisa disave)
+
 <img width="187" height="563" alt="Screenshot 2026-01-14 at 17 37 02" src="https://github.com/user-attachments/assets/7257f4f9-4574-4db3-bca5-930159c27c2b" />
+
 Hasil Dokumentasi : 
+
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-01-14 at 17 37 16" src="https://github.com/user-attachments/assets/a764a15c-f0d6-45d0-b5fe-4927a968fbe4" />
 
 T09: Create Loan berhasil
+
 <img width="211" height="563" alt="Screenshot 2026-01-14 at 17 38 55" src="https://github.com/user-attachments/assets/2efcfe00-7949-4bb5-9f52-4ada7c12a518" />
+
 Hasil Dokumentasi : 
+
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-01-14 at 17 39 36" src="https://github.com/user-attachments/assets/dc707d6d-02d4-43d2-96ef-b3da103ecc4c" />
 
 T10: Load daftar books staf
+
 <img width="224" height="563" alt="Screenshot 2026-01-14 at 17 39 57" src="https://github.com/user-attachments/assets/33c53eea-4bc1-4a73-a32d-76e00174a3d6" />
+
 Hasil Dokumentasi : 
+
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-01-14 at 17 40 29" src="https://github.com/user-attachments/assets/af2709db-3890-43e4-9cad-71ab834fe0ca" />
 
 T11: Soft delete buku (trash)
+
 <img width="240" height="563" alt="Screenshot 2026-01-14 at 17 41 08" src="https://github.com/user-attachments/assets/613a1260-5e2e-4342-b4bb-0fcc4dc3b679" />
+
 Hasil Dokumentasi : 
+
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-01-14 at 17 41 23" src="https://github.com/user-attachments/assets/e523372a-b4e2-4233-ad7f-13acc57a8fcf" />
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-01-14 at 17 41 32" src="https://github.com/user-attachments/assets/04666637-cd1e-44eb-8148-eeee7c95106d" />
 
 T12: Logout
+
 <img width="209" height="563" alt="Screenshot 2026-01-14 at 17 42 11" src="https://github.com/user-attachments/assets/dbef2b60-ce0f-4a5c-936f-484a7bed1d45" />
+
 Hasil Dokumentasi : 
+
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-01-14 at 17 42 41" src="https://github.com/user-attachments/assets/bad924a8-139d-4881-b710-a4c8f8716ae6" />
 
 
