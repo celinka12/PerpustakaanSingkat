@@ -449,11 +449,13 @@ Hasil Dokumentasi :
 
 T09: Create Loan berhasil
 
-<img width="211" height="563" alt="Screenshot 2026-01-14 at 17 38 55" src="https://github.com/user-attachments/assets/2efcfe00-7949-4bb5-9f52-4ada7c12a518" />
+<img width="365" height="792" alt="image" src="https://github.com/user-attachments/assets/cd653300-8a9a-4bbc-b7f5-813203a8410d" />
+
 
 Hasil Dokumentasi : 
 
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-01-14 at 17 39 36" src="https://github.com/user-attachments/assets/dc707d6d-02d4-43d2-96ef-b3da103ecc4c" />
+<img width="365" height="792" alt="image" src="https://github.com/user-attachments/assets/5aec8d89-e4c6-40b3-887e-e9bec1493e2a" />
+
 
 T10: Load daftar books staf
 
