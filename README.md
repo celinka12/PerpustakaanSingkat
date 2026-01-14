@@ -374,11 +374,10 @@ lihat books + trash buku
 logout → balik ke catalog
 
 
-
-App Testing : 
+---
+App : 
 ![WhatsApp Image 2026-01-11 at 05 21 42 (1)](https://github.com/user-attachments/assets/502a463e-5e88-478e-b63f-13e4725ac2f8)
 Menampilkan katalog buku dan search bar 
-
 
 ![WhatsApp Image 2026-01-11 at 05 21 42](https://github.com/user-attachments/assets/7b0387e8-c5e5-4e0c-b349-c79f76b3b621)
 Menampilkan status peminjaman para pengguna dan detail peminjaman
@@ -386,26 +385,29 @@ Menampilkan status peminjaman para pengguna dan detail peminjaman
 ![WhatsApp Image 2026-01-11 at 05 24 29](https://github.com/user-attachments/assets/de47ff0b-4241-402a-99fc-703cf458fc6e)
 Menampilkan form peminjaman yang diisi oleh petugas perpustakaan dan dapat melihat ketersediaan buku yang ingin dipinjam
 
+---
 Test Case Aplikasi : 
 
 Pengguna/ USer Library:
 <img width="447" height="528" alt="Screenshot 2026-01-14 at 17 24 54" src="https://github.com/user-attachments/assets/67e2730b-9132-4fd9-b132-a6b193897dea" />
+---
 Hasil Dokumentasi: 
 <img width="365" height="792" alt="image" src="https://github.com/user-attachments/assets/011ba77a-e2b2-4752-8e1f-e3e0387003de" />
 <img width="365" height="792" alt="image" src="https://github.com/user-attachments/assets/09981a91-cd7a-43dc-8109-86e7f714a771" />
 
 
 Staff Library:
+---
 T03: Buka Halaman Login Staff
 <img width="203" height="560" alt="Screenshot 2026-01-14 at 17 29 30" src="https://github.com/user-attachments/assets/667e13a6-2dd7-4460-8c9c-3bf9adb583e3" />
 Hasil Dokumentasi:
 <img width="365" height="792" alt="image" src="https://github.com/user-attachments/assets/59d29b99-93f5-44ae-a517-42b2b187ae52" />
-
+---
 T04 : Login gagal (password salah)
 <img width="203" height="560" alt="Screenshot 2026-01-14 at 17 31 01" src="https://github.com/user-attachments/assets/ea07cf53-b404-424f-a0ed-fa440c0671cc" />
 Hasil Dokumentasi:
 <img width="365" height="792" alt="image" src="https://github.com/user-attachments/assets/e4766e93-8bda-45c0-8ad0-921e3a210595" />
-
+---
 T05: Login berhasil (password benar)
 <img width="248" height="560" alt="Screenshot 2026-01-14 at 17 33 33" src="https://github.com/user-attachments/assets/6ec839d7-6f5e-42d7-9153-0f13b1721965" />
 Hasil Dokumentasi :
