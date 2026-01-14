@@ -1,4 +1,4 @@
-<img width="205" height="36" alt="image" src="https://github.com/user-attachments/assets/3cf0d572-6819-4774-89ce-257429e3fd8f" /># PerpustakaanSingkat
+# PerpustakaanSingkat
 Tugas Sertifikasi 
 
 aplikasi perpustakaan sederhana berbasis **SwiftUI** dengan backend **Supabase**.
